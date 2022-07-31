@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ChannelName-red)](#Loading)
-[![Linkedin Badge](https://img.shields.io/badge/-Shailesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailesh-shinde-a8757956/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Shailesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailesh-shinde-a8757956/)](https://www.linkedin.com/in/shailesh-shinde-a8757956/)
 [![Website Badge](https://img.shields.io/badge/WebSite-website-green)](#Loading)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shailesh-yellow)](https://stackoverflow.com/users/6363596/shailesh)
 
